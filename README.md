@@ -1,4 +1,4 @@
-# Graph project: Epidemic spreading
+# Graph project: Epidemic spreading (in Julia)
 
 ## Introduction
 
